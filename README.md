@@ -12,9 +12,24 @@
 
 ### 🛠️ Tech Stack
 
+**Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,ts,dart,html,css,git,linux,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,dart&perline=6" />
+  </a>
+</p>
+
+**Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,nodejs&perline=6" />
+  </a>
+</p>
+
+**Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,vscode&perline=6" />
   </a>
 </p>
 
@@ -31,19 +46,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaaranas&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?uuusername=aaaranas&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:aaaranas@up.edu.ph">
+  <a href="mailto:your-email@up.edu.ph">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/aaaranas/andre-portfolio">
