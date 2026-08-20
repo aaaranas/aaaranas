@@ -109,19 +109,6 @@ andre@github:~$ tree ~/.stack -L 2
 ---
 
 ```console
-andre@github:~$ git log --author="aaaranas" --stat
-```
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=aaaranas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&include_all_commits=true&count_private=false)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaranas&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8)
-
-</div>
-
----
-
-```console
 andre@github:~$ curl -s andre.contact | jq
 
 {
